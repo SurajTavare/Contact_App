@@ -15,14 +15,4 @@ Users can add, update, delete, and mark contacts as favourite, store them locall
 - 💾 Local Storage — Data is stored locally using sqflite so it works offline.
 - 🎨 Premium UI — Clean and modern interface with a professional theme.
 
----
-
-
----
-
-
-
----
-
-## 📂 Project Structure
 
